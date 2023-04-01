@@ -1,5 +1,5 @@
 # Subreddit-Rules-Transfer-Script
-Simple script to transfer rules and removal reasons from one subreddit to another. 
+Simple script to transfer rules and removal reasons from one subreddit to another.  
 The account that runs this script must be a moderator in the subreddit.  
 
 ### Instructions
