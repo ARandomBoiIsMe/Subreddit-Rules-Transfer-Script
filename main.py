@@ -7,8 +7,8 @@ config.read('config.ini')
 
 client_id = config['REDDIT']['CLIENT_ID']
 client_secret = config['REDDIT']['CLIENT_SECRET']
-password = config['REDDIT']['PASSWORD']
-username = config['REDDIT']['USERNAME_REDDIT']
+password = config['REDDIT']['REDDIT_PASSWORD']
+username = config['REDDIT']['REDDIT_USERNAME']
 
 reddit = praw.Reddit(
     client_id=client_id,
